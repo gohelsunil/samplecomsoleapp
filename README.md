@@ -1,4 +1,2 @@
 # samplecomsoleapp
-asdfasdf
-asdf
-asdf
+asdfasd
